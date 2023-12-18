@@ -9,7 +9,7 @@
 ### DESCRIPTION
 DEDSEC_GHOSTMAILER is a Linux-based tool with the ability to send emails without the need to disclose user's real identity. This innovative solution ensures that anonymity remains intact, providing a shield against the exposure of personal information. With its user-friendly interface, DEDSEC_GHOSTMAILER simplifies the process of sending emails using an undisclosed email address, making it an ideal choice for various applications, from discreet communication to safeguarding privacy during online interactions. Embrace a tool that puts you in control of your digital footprint while effortlessly preserving your anonymity. Simplify your online experience and protect your identity discreetly with DEDSEC_GHOSTMAILER.
 
-### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
+### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_GHOSTMAILER.git
     * cd DEDSEC_GHOSTMAILER
     * chmod +x dedsec_ghostmailer
@@ -19,7 +19,6 @@ DEDSEC_GHOSTMAILER is a Linux-based tool with the ability to send emails without
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-* Termux App
 
 ## Support
 
