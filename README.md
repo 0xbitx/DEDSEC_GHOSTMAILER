@@ -12,6 +12,7 @@ DEDSEC_GHOSTMAILER is a Linux-based tool with the ability to send emails without
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_GHOSTMAILER.git
     * cd DEDSEC_GHOSTMAILER
+    * pip3 install requests tabulate
     * chmod +x dedsec_ghostmailer
     * ./dedsec_ghostmailer
 
